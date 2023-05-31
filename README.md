@@ -1,5 +1,5 @@
 
-# Tabela Brasileira de Composição de Alimentos - Web Scraping
+# Tabela Brasileira de Composição de Alimentos - Web Scraping - Download 
 
 Este projeto consiste em um web scraping que obtém as informações da Tabela Brasileira de Composição de Alimentos (TBCA) e as armazena em um arquivo JSON. O objetivo principal é disponibilizar os dados nutricionais de mais de 5.500 alimentos em um formato fácil de ser utilizado por outros aplicativos ou sistemas.
 
