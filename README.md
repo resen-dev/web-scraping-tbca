@@ -15,7 +15,3 @@ Este projeto consiste em um web scraping que obtém as informações da Tabela B
 
 ## Uso dos Dados
 O arquivo "alimentos.txt" contém os dados nutricionais dos alimentos. Ele pode ser facilmente importado e utilizado em outros aplicativos, sistemas ou projetos relacionados à nutrição. Os dados estão estruturados em um formato JSON, o que facilita a manipulação e extração das informações necessárias.
-
-Além disso, deixo a modelagem das tabelas que utilizei para armazena-los em um banco de dados Oracle no arquivo "modelagem.png" e as funções utilizadas para parsistir os dados no arquivo "querys.py". 
-
-É importante ressaltar que essa modelagem e scripts foram desenvolvidos para atender às necessidades de um projeto específico. Dependendo do seu caso de uso, você pode precisar ajustar a modelagem do banco de dados ou os scripts conforme necessário.
